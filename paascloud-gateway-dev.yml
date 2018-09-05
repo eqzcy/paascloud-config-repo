@@ -109,7 +109,6 @@ proxy:
     routes:
       uac-route: oauth2
       mdc-route: oauth2
-      tpc-route: oauth2
 
 paascloud:
   enableSqlLogInterceptor: false
