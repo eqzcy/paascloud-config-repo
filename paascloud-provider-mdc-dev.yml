@@ -55,7 +55,7 @@ paascloud:
     interceptor:
       enable: true
   zk:
-    zkAddressList: 120.77.32.220:2181
+    zkAddressList: paascloud-provider-zk:2181
   aliyun:
     rocketMq:
       enable: false
